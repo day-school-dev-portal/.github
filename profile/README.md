@@ -1,4 +1,4 @@
-# Day School Dev Portal
+# Day School Development Portal
 
 A shared home for software that Jewish day schools build for themselves.
 
