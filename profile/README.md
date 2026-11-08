@@ -29,6 +29,13 @@ anything published in this org:
 **[group-maker](https://github.com/day-school-dev-portal/group-maker)** — paste
 a class list, get groups, print them. One HTML file, works offline.
 
+**[ai-tutor](https://github.com/day-school-dev-portal/ai-tutor)** — Claude as a
+tutor for the [Developing with AI](https://dev-portal-byauh7qecq-ue.a.run.app/modules.html)
+modules: eleven of them, from how your computer is organized into folders to
+building a hub for a school's data, taught one step at a time in your own Claude.
+In the Claude app, go to Customize → Plugins → Add → Add marketplace and enter
+`day-school-dev-portal/ai-tutor`. Free, and it uses no school data.
+
 More to come as they are ready.
 
 ## Using these at your school
